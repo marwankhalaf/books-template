@@ -1,3 +1,5 @@
+// start js
+
 let photo = document.getElementById("photo");
 let bollts = document.querySelectorAll(".bollts span");
 console.log(photo);
